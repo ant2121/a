@@ -16,6 +16,8 @@ My objective to become a cybersecurity analyst began with my fascination for the
 | Spotting when something is a false positive vs. real threat|
 |Patience and persistence|
 |Attention to detail|
+|Have a strong understanding of the proactive measures security analysts take, such as monitoring alerts and researching threats|
+|Articulates how identifying suspicious emails directly contributes to protecting sensitive information and user trust|
 
 ## Tools
 
